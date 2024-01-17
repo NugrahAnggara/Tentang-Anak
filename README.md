@@ -16,7 +16,7 @@
 <br><br>
 <h2 id="release">Release Apps</h2>
  <ul style="list-style-type: none;">
-   <li><a href="https://github.com/NugrahAnggara/FashFlex/releases/tag/v1.0.0">Here</a></li>
+   <li><a href="https://github.com/NugrahAnggara/Tentang-Anak/releases/tag/v1.0.0">Here</a></li>
  </ul>
 <br><br>
 <h2>Licences</h2>
