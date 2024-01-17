@@ -22,14 +22,17 @@
         <td><img src="https://github.com/NugrahAnggara/Tentang-Anak/assets/119094811/86af074e-a86e-4274-91b1-34780f5565bf" alt="detail"></td>
     </tr>
 </table>
-<br><br>
+<br>
 <h2 id="demo">Demo Apps</h2>
 <p>Coming Soon</p>
-<br><br>
+<br>
 <h2 id="release">Release Apps</h2>
  <ul style="list-style-type: none;">
    <li><a href="https://github.com/NugrahAnggara/Tentang-Anak/releases/tag/v1.0.0">Here</a></li>
  </ul>
-<br><br>
+<br>
 <h2 id="license">Licences</h2>
-<p><a href="https://github.com/NugrahAnggara/Tentang-Anak?tab=MIT-1-ov-file">license</a></p>
+ <ul style="list-style-type: none;">
+   <li><a href="https://github.com/NugrahAnggara/Tentang-Anak?tab=MIT-1-ov-file">license</a></li>
+ </ul>
+
