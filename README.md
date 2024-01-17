@@ -1,6 +1,6 @@
-<h1>FleshFlex</h1>
+<h1>Tentang Anak</h1>
 <hr>
-<p>FleshFlex adalah aplikasi berbasis sensor gravitasi dan sensor light yang digunakan untuk mengaktifkan flashlight pada android secara otomatisdengan mengukur tingkat cahaya disekitar device.</p>
+<p>Tentang Anak adalah aplikasi petualangan parenting yang memiliki peran menyusun langkah-langkah cerdas untuk anak bahagia</p>
 <ul>
   <li><a href="#image">Image</a></li>
   <li><a href="#demo">Demo Apps</a></li>
