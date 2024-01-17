@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97671449244",
+    "project_id": "tentang-anak-867c9",
+    "storage_bucket": "tentang-anak-867c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97671449244:android:cfd1dbdbf2658bc7443b59",
+        "android_client_info": {
+          "package_name": "com.example.tentanganak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARN63O7_xDiibEBJltp_xoFYjjUMe32r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
